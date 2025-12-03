@@ -1,0 +1,5 @@
+{
+  "name": "AgriReview: AI Thesis Supervisor",
+  "description": "An intelligent document review system simulating an expert Agronomy Professor. Upload your research proposals or reports for a comprehensive analysis on logic, feasibility, and scientific rigor.",
+  "requestFramePermissions": []
+}
